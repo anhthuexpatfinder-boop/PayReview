@@ -1,0 +1,70 @@
+# Defect Analysis
+
+Analyze production defects, escaped defects, and automation failures.
+
+## Identify
+
+- Expected behavior
+- Actual behavior
+- Affected users
+- Impact level
+
+## Determine Root Cause Category
+
+Business Rule
+
+- Missing requirement
+- Incorrect implementation
+
+Data
+
+- Invalid data
+- Missing data
+
+Authorization
+
+- Incorrect permissions
+- Visibility issue
+
+Calculation
+
+- Formula issue
+- Rounding issue
+- Precision issue
+
+Automation
+
+- Locator issue
+- Timing issue
+- Test design issue
+
+## Risk Assessment
+
+High
+
+- Compensation errors
+- Unauthorized access
+- Incorrect approvals
+
+Medium
+
+- Workflow issues
+- Notification issues
+
+Low
+
+- Cosmetic defects
+
+## Output
+
+### Summary
+
+### Impact
+
+### Root Cause
+
+### Risk
+
+### Recommended Tests
+
+### Regression Coverage

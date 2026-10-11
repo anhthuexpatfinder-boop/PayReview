@@ -1,0 +1,52 @@
+# Compensation Validation
+
+Use whenever requirements contain:
+
+- Salary
+- Merit increase
+- Compensation
+- Bonus
+- Budget
+- Percentage adjustment
+
+## Validate Calculations
+
+Verify:
+
+- Current salary
+- Increase percentage
+- New salary
+- Budget consumed
+- Budget remaining
+
+Expected formula:
+
+newSalary =
+currentSalary * (1 + increasePercent / 100)
+
+## Verify Precision
+
+Validate:
+
+- Two decimal places
+- Rounding behavior
+- Currency formatting
+
+## Required Scenarios
+
+- Zero increase
+- Minimum increase
+- Maximum increase
+- Decimal percentages
+- Large salary values
+- Budget limit reached
+- Budget exceeded
+
+## Output
+
+Provide:
+
+- Test scenarios
+- Expected calculations
+- Boundary conditions
+- Validation rules
