@@ -1,0 +1,66 @@
+# Playwright Test Design
+
+Convert requirements into maintainable Playwright TypeScript automation.
+
+## Test Design Process
+
+1. Review requirement analysis.
+2. Identify business outcome.
+3. Identify observable behaviors.
+4. Identify test data requirements.
+5. Define assertions.
+
+## Page Object Design
+
+Create page objects that contain:
+
+- Locators
+- Navigation
+- User actions
+
+Do not place business assertions in page objects.
+
+## Locator Strategy
+
+Preferred order:
+
+1. getByRole()
+2. getByLabel()
+3. getByTestId()
+
+Avoid:
+
+- XPath
+- nth-child selectors
+- dynamically generated classes
+- hardcoded waits
+
+## Test Structure
+
+Use:
+
+Arrange
+Act
+Assert
+
+Example:
+
+Arrange
+- Authenticate
+- Prepare data
+
+Act
+- Execute business action
+
+Assert
+- Verify business outcome
+- Verify UI updates
+- Verify permissions
+
+## Automation Checklist
+
+- Deterministic
+- Parallel-safe
+- Independent
+- Readable
+- Maintainable

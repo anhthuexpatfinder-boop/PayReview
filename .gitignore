@@ -1,0 +1,19 @@
+# Dependencies (Never push node_modules, they are downloaded fresh via npm install)
+node_modules/
+
+# Playwright Test Results & Reports
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Environment variables and local secrets
+.env
+.env.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific folders
+.vscode/
+.idea/
