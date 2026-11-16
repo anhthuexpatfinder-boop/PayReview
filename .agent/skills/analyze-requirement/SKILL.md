@@ -1,3 +1,8 @@
+---
+name: analyze-requirement
+description: Analyze a feature, user story, requirement, design, or bug fix to extract actors, permissions, preconditions, business rules, risks, test scenarios, and open questions.
+---
+
 # Analyze Requirement
 
 When given a feature, user story, requirement, design, or bug fix:
@@ -89,3 +94,4 @@ Do not generate automation if critical business rules or permissions are unclear
 ### Exception Paths
 
 ### Open Questions
+

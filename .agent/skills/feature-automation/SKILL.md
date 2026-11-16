@@ -1,4 +1,5 @@
 ---
+name: feature-automation
 description: Convert approved test scenarios into maintainable Playwright TypeScript automation using Page Object Model architecture and project automation standards.
 ---
 
@@ -101,3 +102,4 @@ Verify:
 - Playwright Tests
 - Locator Strategy
 - Assertion Plan
+

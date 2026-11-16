@@ -1,3 +1,8 @@
+---
+name: access-control-testing
+description: Evaluate authorization and visibility rules across roles to generate authorization matrices, positive/negative tests, and security risk assessments.
+---
+
 # Access Control Testing
 
 Evaluate authorization and visibility rules.
@@ -50,3 +55,4 @@ Generate:
 - Positive tests
 - Negative tests
 - Security risks
+

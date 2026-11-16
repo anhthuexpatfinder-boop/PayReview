@@ -1,3 +1,8 @@
+---
+name: test-review
+description: Review manual or automated tests to evaluate coverage, assertions, maintainability, and reliability, and provide actionable refactoring and priority improvement suggestions.
+---
+
 # Test Review
 
 Review manual or automated tests.
@@ -40,3 +45,4 @@ Reliability
 ### Refactoring Suggestions
 
 ### Priority Improvements
+

@@ -1,5 +1,6 @@
 ---
-description: Analyze defects, determine root causes, and create regression coverage that prevents recurrence of the issue. 
+name: defect-to-regression
+description: Analyze defects, determine root causes, and create regression coverage that prevents recurrence of the issue.
 ---
 
 # Defect to Regression Workflow
@@ -92,3 +93,4 @@ Determine:
 - Risk Assessment
 - Regression Test Coverage
 - Automation Recommendations
+

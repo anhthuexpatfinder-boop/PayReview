@@ -1,5 +1,6 @@
 ---
-description: Analyze PayReview requirements and transform them into complete, risk-based test scenarios before automation is created.  Use this workflow whenever working with user stories, requirement documents, feature specifications, enhancement requests, or bu
+name: requirement-to-test
+description: Analyze PayReview requirements and transform them into complete, risk-based test scenarios before automation is created. Use this skill whenever working with user stories, requirement documents, feature specifications, enhancement requests, or bug fixes.
 ---
 
 # Requirement to Test Workflow
@@ -89,3 +90,4 @@ For each test define:
 - Test Scenarios
 - Test Cases
 - Open Questions
+

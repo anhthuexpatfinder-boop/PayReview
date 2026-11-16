@@ -1,3 +1,8 @@
+---
+name: playwright-test-design
+description: Convert requirements into maintainable Playwright TypeScript automation following Page Object Model design, resilient locator strategies, and Arrange-Act-Assert structure.
+---
+
 # Playwright Test Design
 
 Convert requirements into maintainable Playwright TypeScript automation.
@@ -64,3 +69,4 @@ Assert
 - Independent
 - Readable
 - Maintainable
+

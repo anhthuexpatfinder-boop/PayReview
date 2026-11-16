@@ -1,3 +1,8 @@
+---
+name: defect-analysis
+description: Analyze production defects, escaped defects, and automation failures to determine root cause categories, assess risk, and recommend regression test coverage.
+---
+
 # Defect Analysis
 
 Analyze production defects, escaped defects, and automation failures.
@@ -68,3 +73,4 @@ Low
 ### Recommended Tests
 
 ### Regression Coverage
+

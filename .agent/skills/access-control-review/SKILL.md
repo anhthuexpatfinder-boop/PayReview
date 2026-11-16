@@ -1,4 +1,5 @@
 ---
+name: access-control-review
 description: Review feature authorization, visibility, and permission rules to ensure compensation data and actions are accessible only to permitted users.
 ---
 
@@ -73,3 +74,4 @@ Include:
 - Negative Tests
 - Security Risks
 - Authorization Coverage
+
